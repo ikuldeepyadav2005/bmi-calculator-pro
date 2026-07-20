@@ -44,7 +44,7 @@ export default function TermsPage() {
           Contact
         </h2>
 
-        <p>Email : your@email.com</p>
+        <p>Email : ikuldeepyadav2005@gmail.com</p>
       </div>
     </main>
   );
