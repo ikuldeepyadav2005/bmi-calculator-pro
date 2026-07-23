@@ -45,7 +45,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <p className="mt-2">© 2026 BMI Calculator Pro. All rights reserved.</p>
           </div>
         </footer>
-
+<Script 
+  async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2325172875255272"
+     crossOrigin="anonymous">
+</Script>
       </body>
     </html>
   );
