@@ -13,8 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <head>
         <meta name="google-site-verification" content="1imq7mv0ijgjKCN7_qZYc9118p3xzvUp7rAROoVqPc4" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2325172875255272"
-     crossorigin="anonymous"></script>
+        <meta name="google-adsense-account" content="ca-pub-2325172875255272">
       </head>
       <body className="bg-black text-white min-h-screen flex-col">
         
