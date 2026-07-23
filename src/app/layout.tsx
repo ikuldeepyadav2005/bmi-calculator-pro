@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import Link from 'next/link'; // ye line add karni hai
+import Script from 'next/script';
 
 export const metadata: Metadata = {
   title: 'BMI Calculator Pro',
